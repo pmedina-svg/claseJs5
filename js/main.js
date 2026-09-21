@@ -93,7 +93,7 @@ do{
                         console.log("Astronauta " + nombreAstronauta + " decidió volver a la Tierra.");
                     }
                     else if(regresar === 2){
-                        alert("Gracias por haber participado en la misión. \nTe deseamos una vida prospera en tu nuevo hogar.")
+                        alert("Gracias por haber participado en la misión. \nTe deseamos una vida prospera en tu nuevo hogar.");
                         console.log("Astronauta " + nombreAstronauta + " decidió quedarse en " + viajeSeleccionado.destino + ".");
                     }
                     break;
